@@ -1,0 +1,29 @@
+{
+    "bot": {
+        "token": "MTA5MDY0OTMwOTI5MDE4NDkxNg.GivAHd.bZhk1TT_fma6c9s67Bwh2IP2P4sN8czybUyykI",
+        "clientid": "1090649309290184916",
+        "nomebot": "EliteService"
+    },
+
+    "server": {
+        "idguild": "1114475554704470088",
+        "nomeserver": "EliteService"
+    },
+
+    "ruoli": {
+        "staffgen": "1114475554704470093",
+        "user": "1114475554704470089"
+    },
+
+    "stanze": {
+        "ticket": {
+            "acquisti": "1114481247520051200"
+        },
+
+        "log": {
+            "transcript": "1114475557107798103"
+        }
+    }
+
+}
+  
